@@ -1,4 +1,4 @@
-# SMS/IM Filtering Application
+# Scamguardian Application
 
 This project is an SMS/IM (Short Message Service/Instant Messaging) filtering application designed to classify messages as spam or not. The application utilizes Natural Language Processing (NLP) techniques and a Multinomial Naive Bayes classifier to determine the classification.
 
